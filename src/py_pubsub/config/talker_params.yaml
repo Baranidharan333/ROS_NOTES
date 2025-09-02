@@ -1,4 +1,0 @@
-talker_node:
-  ros__parameters:
-    message: "Hello from YAML!"
-    publish_rate: 2.0
